@@ -18,4 +18,9 @@ android/.kotlin/
 # OS / editor noise
 *.log
 
+# Product docs (keep local, don't publish)
+PRD.md
+system_design.md
+scenario.md
+
 
