@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Local Android config
+android/local.properties
+
+# Kotlin tooling
+android/.kotlin/
+
+# OS / editor noise
+*.log
+
+
