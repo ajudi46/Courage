@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Courage" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Keep intentionally neutral; Compose Material3 will handle colors/typography. -->
+    </style>
+</resources>
+
+

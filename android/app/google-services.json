@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505003255848",
+    "project_id": "courage-systems",
+    "storage_bucket": "courage-systems.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505003255848:android:321a789ff705e61647ad1d",
+        "android_client_info": {
+          "package_name": "com.courage.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505003255848-1a0tkf8jj3u6es73dfb6coc2reqmf8ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.courage.app",
+            "certificate_hash": "7004e619352272441af500762f92824797570914"
+          }
+        },
+        {
+          "client_id": "505003255848-ecll0p9j0b201itvs3hesn575i2qo5tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKzZ1Ncwl4Favem6LJRePXHHw07tD9oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505003255848-ecll0p9j0b201itvs3hesn575i2qo5tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
